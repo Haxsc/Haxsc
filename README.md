@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 Passionate about **systems development** and **low-level programming**
-- 🛠️ Strong background in **C, C++, JavaScript, Python, Next.js, NestJS**
+- 🛠️ Strong background in **C, C++, JavaScript, Python, Next.js, NestJS,Java**
 - 🔍 Focused on **vulnerability research**, **reverse engineering**, and **exploit development**
 - 🧰 Building modern applications while diving deep into how things break
 
